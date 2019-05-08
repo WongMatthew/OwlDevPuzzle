@@ -1,10 +1,10 @@
-# HootSuite Owl Dev Puzzle Soln
+# Hootsuite Owl Dev Puzzle Soln
 
 This is my soln to the Hootsuite puzzle that can be found [here](https://github.com/WongMatthew/OwlDevPuzzle/tree/master/OriginalPuzzle)
 
 Note: The file ENCRYPTED file is the original Hootsuite puzzle's README file with the header removed
 
-Explination
+Explanation
 =
 * My Soln opens the ENCRYPTED file (Line 5), takes its contents (Line 6), then closes it (Line 9)
 * Using the contents and the base64 package, decodes the contents in base64 (Line 12)
